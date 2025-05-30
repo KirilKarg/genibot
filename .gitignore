@@ -6,6 +6,7 @@ __pycache__/
 
 # Секреты
 *.key
+config.json
 secrets/
 
 # Локальные данные
